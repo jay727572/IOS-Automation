@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="false">
+    <listeners>
+        <listener class-name="com.qa.listeners.TestListener"/>
+    </listeners>
+    <test name="iPhone">
+        <parameter name="platformName" value="iOS" />
+        <parameter name="udid" value="00008020-001A684E11F0002E" />
+        <parameter name="deviceName" value="iPhone" />
+        <parameter name="deviceVersion" value="13" />
+        <classes>
+            <class name="com.qa.tests.LoginTests">
+            <methods>
+                <include name="launch"/>
+            </methods>
+            </class>
+<!--            <class name="com.qa.tests.watchScreen"/>-->
+        </classes>
+    </test>
+</suite>

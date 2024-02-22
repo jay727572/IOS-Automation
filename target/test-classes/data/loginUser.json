@@ -1,0 +1,17 @@
+{
+  "invalidUser":{
+    "username":"dja@nesntest.com",
+    "password":"12345678"
+  },
+  "invalidPassword":{
+    "username":"dja@nesntest.com",
+    "password":"1234567"
+  },
+  "validUser":{
+    "username":"djay@nesntest.com",
+    "password":"12345678"
+  },
+  "search": {
+    "search": "Boston"
+  }
+}

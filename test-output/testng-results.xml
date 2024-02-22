@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="3" failed="2" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-10T11:34:07 EST" name="All Test Suite" finished-at="2024-01-10T11:36:57 EST" duration-ms="170932">
+    <groups>
+    </groups>
+    <test started-at="2024-01-10T11:34:07 EST" name="iPhone" finished-at="2024-01-10T11:36:57 EST" duration-ms="170932">
+      <class name="com.qa.tests.LoginTests">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:06 EST" name="beforeSuite" finished-at="2024-01-10T11:34:07 EST" duration-ms="69" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:07 EST" name="beforeTest" finished-at="2024-01-10T11:34:18 EST" duration-ms="11409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[00008020-001A684E11F0002E]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[iPhone]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:18 EST" name="beforeClass" finished-at="2024-01-10T11:34:18 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:18 EST" name="beforeMethod" finished-at="2024-01-10T11:34:19 EST" duration-ms="814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTests.launch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="launch()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:19 EST" name="launch" finished-at="2024-01-10T11:34:20 EST" duration-ms="728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:20 EST" name="afterMethod" finished-at="2024-01-10T11:34:20 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:20 EST" name="beforeMethod" finished-at="2024-01-10T11:34:20 EST" duration-ms="324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTests.loginValidation()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loginValidation()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:20 EST" name="loginValidation" finished-at="2024-01-10T11:34:35 EST" duration-ms="15251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:35 EST" name="afterMethod" finished-at="2024-01-10T11:34:35 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:34:35 EST" name="afterClass" finished-at="2024-01-10T11:34:35 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:36:56 EST" name="afterTest" finished-at="2024-01-10T11:36:57 EST" duration-ms="1087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.qa.tests.LoginTests@5e0e82ae]" started-at="2024-01-10T11:36:58 EST" name="afterSuite" finished-at="2024-01-10T11:36:58 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.qa.tests.LoginTests -->
+      <class name="com.qa.tests.watchScreen">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:34:35 EST" name="beforeClass" finished-at="2024-01-10T11:34:35 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:34:35 EST" name="beforeMethod" finished-at="2024-01-10T11:34:35 EST" duration-ms="363" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.watchScreen.Search()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Search()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:34:35 EST" name="Search" finished-at="2024-01-10T11:35:01 EST" duration-ms="25162" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Located by By.chained({AppiumBy.id: Search}) (tried for 10 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({AppiumBy.id: Search}) (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+at com.qa.CoreTest.waitForVisibility(CoreTest.java:148)
+at com.qa.CoreTest.sendKeys(CoreTest.java:157)
+at com.qa.pages.vodSearch.search(vodSearch.java:38)
+at com.qa.tests.watchScreen.Search(watchScreen.java:110)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({AppiumBy.id: Search})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:166)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.call(InterceptorOfASingleElement.java:64)
+at io.appium.java_client.proxy.Interceptor.intercept(Interceptor.java:77)
+at org.openqa.selenium.remote.RemoteWebElement$ByteBuddy$Lx3iEsJK.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:304)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:287)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
+... 30 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@da5d5e1 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:261)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:135)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:160)
+... 37 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({AppiumBy.id: Search})
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: RemoteWebDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:77)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:139)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:53)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:139)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$findElement$1(AppiumElementLocator.java:160)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:217)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:210)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
+... 39 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Search -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:35:01 EST" name="afterMethod" finished-at="2024-01-10T11:35:11 EST" duration-ms="10705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:35:11 EST" name="beforeMethod" finished-at="2024-01-10T11:35:12 EST" duration-ms="368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.watchScreen.login()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="login()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:35:12 EST" name="login" finished-at="2024-01-10T11:35:52 EST" duration-ms="40199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:35:52 EST" name="afterMethod" finished-at="2024-01-10T11:36:06 EST" duration-ms="13918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:06 EST" name="beforeMethod" finished-at="2024-01-10T11:36:06 EST" duration-ms="270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.watchScreen.watchScreenSignOut()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="watchScreenSignOut()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:06 EST" name="watchScreenSignOut" finished-at="2024-01-10T11:36:45 EST" duration-ms="39298" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeApplication[@name="NESN 360"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeApplication[@name="NESN 360"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:166)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.call(InterceptorOfASingleElement.java:64)
+at io.appium.java_client.proxy.Interceptor.intercept(Interceptor.java:77)
+at org.openqa.selenium.remote.RemoteWebElement$ByteBuddy$0ccgGDym.sendKeys(Unknown Source)
+at com.qa.CoreTest.sendKeys(CoreTest.java:158)
+at com.qa.pages.loginPage.passwordText(loginPage.java:47)
+at com.qa.tests.watchScreen.watchScreenSignOut(watchScreen.java:90)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@1d0695da (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:261)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:135)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:160)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //XCUIElementTypeApplication[@name="NESN 360"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeScrollView/XCUIElementTypeOther[1]/XCUIElementTypeOther/XCUIElementTypeOther[2]/XCUIElementTypeSecureTextField})
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: driver.version: RemoteWebDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:77)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:139)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:53)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$1.findElement(ElementLocation.java:139)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:354)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$findElement$1(AppiumElementLocator.java:160)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:217)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:210)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:204)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- watchScreenSignOut -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:45 EST" name="afterMethod" finished-at="2024-01-10T11:36:56 EST" duration-ms="10993" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.id: scores (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appium:automationName: XCUITest, appium:bundleId: com.nesn.nesngo, appium:clearSystemFiles: true, appium:databaseEnabled: false, appium:deviceName: iPhone, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:platformVersion: 13, appium:takesScreenshot: true, appium:udid: 00008020-001A684E11F0002E, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: b0019c4c-4c36-4de3-80bb-e11145fd4f8c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: scores (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appium:automationName: XCUITest, appium:bundleId: com.nesn.nesngo, appium:clearSystemFiles: true, appium:databaseEnabled: false, appium:deviceName: iPhone, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:platformVersion: 13, appium:takesScreenshot: true, appium:udid: 00008020-001A684E11F0002E, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: b0019c4c-4c36-4de3-80bb-e11145fd4f8c
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+at com.qa.pages.watchScreen.scoreClick(watchScreen.java:69)
+at com.qa.tests.watchScreen.afterMethod(watchScreen.java:58)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:779)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:755)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:56 EST" name="beforeMethod" finished-at="2024-01-10T11:36:56 EST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="watchScreenValidation()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:56 EST" name="watchScreenValidation" finished-at="2024-01-10T11:36:56 EST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.id: scores (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appium:automationName: XCUITest, appium:bundleId: com.nesn.nesngo, appium:clearSystemFiles: true, appium:databaseEnabled: false, appium:deviceName: iPhone, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:platformVersion: 13, appium:takesScreenshot: true, appium:udid: 00008020-001A684E11F0002E, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: b0019c4c-4c36-4de3-80bb-e11145fd4f8c]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: scores (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '13.6', java.version: '21.0.1'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {appium:automationName: XCUITest, appium:bundleId: com.nesn.nesngo, appium:clearSystemFiles: true, appium:databaseEnabled: false, appium:deviceName: iPhone, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:platformVersion: 13, appium:takesScreenshot: true, appium:udid: 00008020-001A684E11F0002E, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: b0019c4c-4c36-4de3-80bb-e11145fd4f8c
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:229)
+at com.qa.pages.watchScreen.scoreClick(watchScreen.java:69)
+at com.qa.tests.watchScreen.afterMethod(watchScreen.java:58)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325)
+at org.testng.internal.invokers.TestInvoker.runConfigMethods(TestInvoker.java:810)
+at org.testng.internal.invokers.TestInvoker.runAfterConfigurations(TestInvoker.java:779)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:755)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- watchScreenValidation -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:56 EST" name="afterMethod" finished-at="2024-01-10T11:36:56 EST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.qa.tests.watchScreen@3754a4bf]" started-at="2024-01-10T11:36:56 EST" name="afterClass" finished-at="2024-01-10T11:36:56 EST" duration-ms="0" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.qa.tests.watchScreen -->
+    </test> <!-- iPhone -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

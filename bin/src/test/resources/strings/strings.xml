@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Error Text -->
+    <string name="err_invalid_username">Please enter a valid email address</string>
+    <string name="err_invalid_password">Please enter a valid password</string>
+</resources>
